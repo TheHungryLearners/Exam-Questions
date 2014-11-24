@@ -1,0 +1,3 @@
+##Error page
+ErrorDocument 403 http://localhost/Exam-Questions/403.php
+Options -Indexes
