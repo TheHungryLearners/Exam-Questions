@@ -15,7 +15,6 @@
 		{
 			color: #FFFFFF;
       text-align: center;
-
 		}
     h3
     {
