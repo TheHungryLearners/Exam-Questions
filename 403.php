@@ -7,30 +7,33 @@
     <link rel="stylesheet" href="css/foundation.css" />
     <script src="js/vendor/modernizr.js"></script>
     <style>
-		body, .panel
-		{
-			background: #222222;
-		}
-		body, h3
-		{
-			color: #FFFFFF;
-      text-align: center;
-		}
-    h3
-    {
-      margin-left: 15px;
-      margin-right: 15px;
-    }
-    label
-    {
-      color: #AAAAAA;
-      cursor: default;
-    }
+    		body, .panel
+    		{
+    			background: #222222;
+    		}
+    		body, h3
+    		{
+    			color: #FFFFFF;
+          text-align: center;
+    		}
+        h3
+        {
+          margin-left: 15px;
+          margin-right: 15px;
+        }
+        label
+        {
+          color: #AAAAAA;
+          cursor: default;
+        }
     </style>
   </head>
+
     <div class="row">
       <h3><b>Error: Forbidden Access</b></h3> 
     </div>
+    
+</html>
 
 <?php 
   include_once('footer.php');
