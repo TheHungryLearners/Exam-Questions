@@ -1,8 +1,8 @@
-        <div class="row">
+        <div class="row custom-page">
         <br>
           <h3>Enter the details and get all the answers you want!</h3>
           <hr> 
-        </div>
+        <!-- </div> -->
 <?php
     if (isset($_POST['submit']))
     {
@@ -38,7 +38,7 @@
         $is_valid_semester      = "";
     }
 ?>
-        <div class="row">
+        <!-- <div class="row custom-page"> -->
             <br>
             <div class="large-8 large-offset-2 columns">
               <div class="panel">

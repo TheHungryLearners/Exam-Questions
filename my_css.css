@@ -1,0 +1,43 @@
+body, .panel
+{
+    background: #222222;
+}
+body, h3, label
+{
+    color: #AAAAAA;
+}
+h3
+{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+label
+{
+    cursor: default;
+}
+.custom-page
+{
+    padding-top: 50px;
+    padding-bottom: 84.9px;
+}
+footer
+{
+    position: inherit;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: #333333;
+}
+footer div
+{
+    background: #333333;
+}
+footer p
+{
+    padding-top: 0px;
+    text-align: right;
+}
+.custom
+{
+    border: 0px;
+}
